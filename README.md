@@ -21,5 +21,5 @@ An animated 2D city scene built with C++ and OpenGL (GLUT), featuring day/night 
 
 
 ## ⌨️ Controls
-- `Arrow Up \uparrow \/Down \downarrow` — Switch between Day and Night scene
+- `Up arrow ↑/ Down arrow ↓` — Switch between Day and Night scene
 
