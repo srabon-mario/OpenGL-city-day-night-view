@@ -19,13 +19,7 @@ An animated 2D city scene built with C++ and OpenGL (GLUT), featuring day/night 
 - OpenGL
 - GLUT (FreeGLUT)
 
-## ▶️ How to Run
-1. Make sure you have OpenGL and GLUT installed
-2. Compile: `g++ main.cpp -o city -lGL -lGLU -lglut`
-3. Run: `./city`
 
 ## ⌨️ Controls
-- `Arrow Up/Down` — Switch between Day and Night scene
-- `W/S` — Rotate billboard vertically
-- `A/D` — Rotate billboard horizontally
-- `Q/E` — Zoom billboard in/out
+- `Arrow Up \uparrow \/Down \downarrow` — Switch between Day and Night scene
+
